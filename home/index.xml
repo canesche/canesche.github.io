@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Ritchie Zhao</title>
+    <link>https://rzhao01.github.io/home/</link>
+    <description>Recent content in Homes on Ritchie Zhao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Ritchie Zhao</copyright>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rzhao01.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://rzhao01.github.io/home/about/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/home/about/</guid>
+      <description>Biography I received my PhD in ECE from Cornell University in May 2020, under Professor Zhiru Zhang. My graduate research is on hardware acceleration for deep neural networks (DNNs), with specific focus on DNN quantization, DNN accelerator design, and high-level synthesis design flows. I am particularly interested in designing DNNs and hardware systems in conjunction for greater synergy.
+During my graduate career, I interned at Microsoft Research in Redmond, working with Daniel Lo and Eric Chung on low-precision inference for the Brainwave project.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://rzhao01.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://rzhao01.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rzhao01.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
