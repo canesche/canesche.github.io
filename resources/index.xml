@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Ritchie Zhao</title>
+    <link>https://rzhao01.github.io/publication/</link>
+    <description>Recent content in Publications on Ritchie Zhao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Ritchie Zhao</copyright>
+    <lastBuildDate>Sun, 13 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://rzhao01.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overwrite Quantization: Opportunistic Outlier Handling for Neural Network Accelerators</title>
+      <link>https://rzhao01.github.io/publication/overq_arxiv2019/</link>
+      <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/overq_arxiv2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Neural Network Quantization without Retraining using Outlier Channel Splitting</title>
+      <link>https://rzhao01.github.io/publication/ocs_arxiv2019/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/ocs_arxiv2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Building Efficient Deep Neural Networks with Unitary Group Convolutions</title>
+      <link>https://rzhao01.github.io/publication/hadanet_arxiv2018/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/hadanet_arxiv2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serving DNNs in Real Time at Datacenter Scale with Project Brainwave</title>
+      <link>https://rzhao01.github.io/publication/brainwave_ieee_micro2017/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/brainwave_ieee_micro2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Celerity Open-Source 511-Core RISC-V Tiered Accelerator Fabric: Fast Architectures and Design Methodologies for Fast Chips</title>
+      <link>https://rzhao01.github.io/publication/celerity_ieee_micro2017/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/celerity_ieee_micro2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rosetta: A Realistic High-Level Synthesis Benchmark Suite for Software Programmable FPGAs</title>
+      <link>https://rzhao01.github.io/publication/rosetta_fpga2018/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/rosetta_fpga2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration</title>
+      <link>https://rzhao01.github.io/publication/separable_cvprw2017/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/separable_cvprw2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Parallel Bandit-Based Approach for Autotuning FPGA Compilation</title>
+      <link>https://rzhao01.github.io/publication/datuner_fpga2017/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/datuner_fpga2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Binarized Convolutional Neural Networks with Software-Programmable FPGAs</title>
+      <link>https://rzhao01.github.io/publication/bnn_fpga2017/</link>
+      <pubDate>Wed, 22 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/bnn_fpga2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving High-Level Synthesis with Decoupled Data Structure Optimization</title>
+      <link>https://rzhao01.github.io/publication/decoupled_dac2016/</link>
+      <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/decoupled_dac2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ElasticFlow: A Complexity-Effective Approach for Pipelining Irregular Loop Nests</title>
+      <link>https://rzhao01.github.io/publication/elasticflow_iccad2015/</link>
+      <pubDate>Thu, 05 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/elasticflow_iccad2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Area-Efficient Pipelining for FPGA-Targeted High-Level Synthesis</title>
+      <link>https://rzhao01.github.io/publication/pipelining_dac2015/</link>
+      <pubDate>Sun, 07 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://rzhao01.github.io/publication/pipelining_dac2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
